@@ -1,0 +1,1 @@
+ /Users/mattikjellstadli/Programming/Mobile\ Applications/SoApp/.dart_tool/flutter_build/f1351da77174a36eeb3b0b762c630a2c/native_assets.yaml: 

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/skrot.iml" filepath="$PROJECT_DIR$/skrot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/testproject_android.iml" filepath="$PROJECT_DIR$/android/testproject_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoApp.iml" filepath="$PROJECT_DIR$/.idea/SoApp.iml" />
     </modules>
   </component>
 </project>
